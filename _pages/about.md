@@ -17,8 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Ph.D @ Hanyang university. 7+ years of experience analyzing in biosignal/data such as `electromyogram (EMG)`, `electrooculogram (EOG)`, `electroenchpahlogram (EEG)`, etc. My research topics include myoelectric control, brain-computer interfacing, and computational neuroscience. Skilled in the application of machine learning or deep learning algorithms using Matlab and Python. I have developed various real-time biosignal-based applications such as 1) facial expression recognition system based on EMG [Click](https://youtu.be/KLhR6EVkGOM), 2) silent speech recognition system based on EMG, 3) lip shape recognition system based on EMG [Click](https://youtu.be/4DtvWsn1aA8), 4) Triple blink detection system based on EOG [Click](https://drive.google.com/file/d/1nMDxb8t0uoMGfen8n8AQLEH80OPDl0n9/view?usp=sharing), etc.
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->

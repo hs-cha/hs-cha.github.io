@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: Andy Cha # the website title (if blank, full name will be used instead)
-first_name: Hoseung
-middle_name: 
+first_name: Andy
+middle_name: Hoseung
 last_name: Cha
 email: hoseungcha@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url: "http://andy-cha.github.io"  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
@@ -42,8 +42,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: andy-cha# your GitHub user name
 twitter_username: # your Twitter handle
 linkedin_username: hoseungcha # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: hoseungcha # your ORCID ID
+scholar_userid: hoseungcha # your Google Scholar ID
+orcid_id: 0000-0002-9492-2318 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -59,7 +59,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
+blog_name: andy cha  # your blog must have a name for it to show up in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
@@ -123,7 +123,7 @@ plugins:
 
 scholar:
 
-  last_name: Einstein
+  last_name: Cja
 
   style: apa
   locale: en
