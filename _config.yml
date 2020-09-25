@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Andy Cha # the website title (if blank, full name will be used instead)
-first_name: Andy
-middle_name: Hoseung
+title: Hoseung Cha's website # the website title (if blank, full name will be used instead)
+first_name: Hoseung
+middle_name: 
 last_name: Cha
 email: hoseungcha@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -14,7 +14,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url: "http://andy-cha.github.io"  # the base hostname & protocol for your site
+url: "http://hs-cha.github.io"  # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
@@ -39,7 +39,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: andy-cha# your GitHub user name
+github_username: hs-cha # your GitHub user name
 twitter_username: # your Twitter handle
 linkedin_username: hoseungcha # your LinkedIn user name
 scholar_userid: hoseungcha # your Google Scholar ID
@@ -59,7 +59,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: andy cha  # your blog must have a name for it to show up in the nav bar
+blog_name: Hoseung Cha  # your blog must have a name for it to show up in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
