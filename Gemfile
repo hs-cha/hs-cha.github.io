@@ -7,4 +7,5 @@ group :jekyll_plugins do
     gem 'jekyll-scholar'
     gem 'jemoji'
     gem 'unicode_utils'
+    gem 'wdm', '>= 0.1.0'
 end
