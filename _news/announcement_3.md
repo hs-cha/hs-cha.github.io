@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-09-15 12:00:00-0000
+date: 2016-01-15 07:59:00-0400
 inline: true
 ---
 
-Started working as a postdoctoral researcher at Hanyang University 
+A simple inline announcement with Markdown emoji! :sparkles: :smile:

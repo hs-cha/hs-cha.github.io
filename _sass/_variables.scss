@@ -13,7 +13,6 @@ $red-color-dark:      #B71C1C !default;
 $orange-color:        #F29105 !default;
 $blue-color:          #0076df !default;
 $blue-color-dark:     #00369f !default;
-// $blue-color-dark:     #0f127b !default;
 $cyan-color:          #2698BA !default;
 $green-color:         #00ab37 !default;
 $green-color-lime:    #B7D12A !default;
@@ -30,9 +29,7 @@ $grey-color-light:    lighten($grey-color, 40%);
 $grey-color-dark:     darken($grey-color, 25%);
 
 /* Set theme colors *************************/
-// $theme-color:         $blue-color;
-$theme-color:         #00369f;
+$theme-color:         $purple-color;
 
-$link-color:           #00369f;
-// $link-color:          $theme-color;
+$link-color:          $theme-color;
 $text-color:          #111 !default;
