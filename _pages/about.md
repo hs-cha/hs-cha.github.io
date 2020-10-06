@@ -47,7 +47,7 @@ I have developed various real-time neurointerfaces:
 - facial expression regression based on EMG (will be released after publication)
 - facial expression recognition system based on EMG [[video link]](https://youtu.be/KLhR6EVkGOM){:target="_blank"}
 - lip shape recognition system based on EMG [[video link]](https://youtu.be/4DtvWsn1aA8){:target="_blank"}
-- triple blink detection system based on EOG [[video link]](https://drive.google.com/file/d/1nMDxb8t0uoMGfen8n8AQLEH80OPDl0n9/view?usp=sharing){:target="_blank"}
+- Triple blink detection system based on EOG [[video link]](https://drive.google.com/file/d/1nMDxb8t0uoMGfen8n8AQLEH80OPDl0n9/view?usp=sharing){:target="_blank"}
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
